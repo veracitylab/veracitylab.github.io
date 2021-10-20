@@ -26,7 +26,8 @@ title: contact
 <p>Contact us for potential collaboration</p>
 
 {{ site.street_address }}, <br>
-{{ site.city }}, {{ site.country }}
+{{ site.city }}, {{ site.country }} <br>
+{{ site.email }}
 
 <ul class="icons">
 
