@@ -1,7 +1,13 @@
 ---
 title: intro
-image: pic01.jpg
+image: pic01.jpeg
 ---
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Veracity Lab intends to be the Aotearoa equivalent of the Turing Institute and Ada Lovelace Institute, providing independent 
+research and outcomes to complement and feed into commercially driven research. 
+​Veracity Lab is the first key deliverable and enabler for the “Veracity Technology Spearhead” research project. 
+It is a joint initiative between Victoria University of Wellington, the University of Waikato, the University of Auckland, 
+the University of Otago and the University of Canterbury, with its head office located at Victoria University of Wellington, 
+and initially funded by the Science for Technological Innovation National Science Challenge (SfTI). 
+Veracity Lab has been established to explore, research, co-design and co-develop high veracity approaches to key areas of 
+digital infrastructure needed for a digital nation, including the requisite digital equivalents to traditional public 
+infrastructure. 

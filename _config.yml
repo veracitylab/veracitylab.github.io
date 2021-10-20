@@ -1,32 +1,35 @@
 # Site settings
 title: Veracity Lab
-email: veracitylab@vuw.ac.nz
-description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
+email: jane.li@vuw.ac.nz
+description: To explore, promote and support a high integrity national digital future
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: RH339, Rutherford House, Pipitea
+city: Wellington
+state: 
+zip_code: 6011
+country: New Zealand
+phone: 
 
 icon: fa-diamond # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/veracitylab
+github_url: https://github.com/veracitylab/
+gitlab_url: 
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://linkedin.com/in/markus-luczak-roesch-81ba5611
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/MLuczak
 
 # Build settings
 markdown: kramdown
 
 sass:
 style: compressed
+
+
+# markus.luczak-roesch@vuw.ac.nz

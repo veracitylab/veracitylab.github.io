@@ -2,7 +2,7 @@
 title: contact
 ---
 
-<form action="https://formspree.io/{{ site.email }}" method="POST">
+<!-- <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
 		<div class="field half first">
 			<label for="name">Name</label>
@@ -21,7 +21,13 @@ title: contact
 		<li><input type="submit" value="Send Message" class="primary" /></li>
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
-</form>
+</form> -->
+
+<p>Contact us for potential collaboration</p>
+
+{{ site.street_address }}, <br>
+{{ site.city }}, {{ site.country }}
+
 <ul class="icons">
 
 	{% if site.twitter_url %}
