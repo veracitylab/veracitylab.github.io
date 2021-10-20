@@ -27,7 +27,8 @@ title: contact
 
 {{ site.street_address }}, <br>
 {{ site.city }}, {{ site.country }} <br>
-{{ site.email }}
+<a href = "mailto: {{ site.email }}">veracity@vuw.ac.nz</a>
+
 
 <ul class="icons">
 
