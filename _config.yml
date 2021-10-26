@@ -12,8 +12,8 @@ zip_code: 6011
 country: New Zealand
 phone: 
 
-icon: fa-diamond # Font Awesome class for your site's icon
-# icon: fa-check # Font Awesome class for your site's icon
+# icon: fa-diamond # Font Awesome class for your site's icon
+icon: fa-500px # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
