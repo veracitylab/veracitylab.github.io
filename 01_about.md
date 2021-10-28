@@ -3,6 +3,7 @@ title: about
 # image: pic01.jpeg
 ---
 <p><sup>Est. July 2021</sup></p>
+
 <section>
 	<h3 class="major">Vision</h3>
     <p> Our vision is to create a <strong>high veracity digital nation</strong> reflects and amplifies a desired quality of life here in Aotearoa New Zealand </p>
@@ -37,8 +38,9 @@ title: about
 		</p>
 </section>
 
-<section>
-	<h3 class="major">Founding Partners</h3>
+
+<section> 
+	<h3 class="major">Founding Partners </h3> 
 </section>
 [<img width="20%" alt="Victoria Universoty of Wellington" src="assets/images/logos/vuw.png">](https://www.wgtn.ac.nz/)
 [<img width="20%" alt="The University of Waikato" src="assets/images/logos/waikato.jpeg">](https://www.waikato.ac.nz/)
