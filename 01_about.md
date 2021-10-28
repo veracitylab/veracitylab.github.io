@@ -55,7 +55,7 @@ title: about
 <h3 class="major">Partnership model </h3> 
 <img width= "100%" alt="Partnership model" src="assets/images/model.png">
 <p>
-Veracity Lab will be situated as an objective partner for 
+Veracity Lab will be situated as an objective partner for: 
 <ul>
 	<li> Indigenous Partnership</li>
 	<li> Industry Partnership</li>
@@ -64,7 +64,7 @@ Veracity Lab will be situated as an objective partner for
 	<li> Developer Partnership</li>
 	<li> Government Partnership</li>
 </ul>
-to facilitate that all these communities can 
+To facilitate that all these communities can 
 explore the concept of a high veracity digital nation through their own 
 cultural lens, and with their individual benefits and interests in mind.
 
