@@ -1,6 +1,23 @@
 <!-- ---
 title: elements
 --- -->
+[<img width="20%" alt="Victoria Universoty of Wellington" src="assets/images/logos/vuw.png">](https://www.wgtn.ac.nz/)
+[<img width="20%" alt="The University of Waikato" src="assets/images/logos/waikato.jpeg">](https://www.waikato.ac.nz/)
+[<img width="20%" alt="The University of Auckland" src="assets/images/logos/auckland.jpeg">](https://www.auckland.ac.nz/en.html)
+[<img width="20%" alt="Universoty of Otago" src="assets/images/logos/otago.png">](https://www.otago.ac.nz/)
+[<img width="20%" alt="Universoty of Canterbury" src="assets/images/logos/uc.png">](https://www.canterbury.ac.nz/)
+[<img width="20%" alt="SfTI" src="assets/images/logos/sfti.jpeg">](https://www.sftichallenge.govt.nz/)
+[<img width="20%" alt="Univentures" src="assets/images/logos/univentures.jpeg">](https://www.wellingtonuniventures.nz/)
+[<img width="20%" alt="BuyPure" src="assets/images/logos/buypure1.jpg">](https://buypurenewzealand.com/)
+<!-- <img width="20%" alt="BuyPure" src="assets/images/logos/buypure.png"> -->
+
+<!-- | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="160" alt="Victoria Universoty of Wellington" src="assets/images/logos/vuw.jpg"> |  <img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="160" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+ -->
+
 
 <section>
 	<h3 class="major">Text</h3>
@@ -239,3 +256,4 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		</ul>
 	</form>
 </section>
+

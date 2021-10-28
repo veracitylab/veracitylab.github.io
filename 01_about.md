@@ -2,6 +2,7 @@
 title: about
 # image: pic01.jpeg
 ---
+<p><sup>Est. July 2021</sup></p>
 <section>
 	<h3 class="major">Vision</h3>
     <p> Our vision is to create a <strong>high veracity digital nation</strong> reflects and amplifies a desired quality of life here in Aotearoa New Zealand </p>
@@ -37,6 +38,18 @@ title: about
 </section>
 
 <section>
+	<h3 class="major">Founding Partners</h3>
+</section>
+[<img width="20%" alt="Victoria Universoty of Wellington" src="assets/images/logos/vuw.png">](https://www.wgtn.ac.nz/)
+[<img width="20%" alt="The University of Waikato" src="assets/images/logos/waikato.jpeg">](https://www.waikato.ac.nz/)
+[<img width="20%" alt="The University of Auckland" src="assets/images/logos/auckland.jpeg">](https://www.auckland.ac.nz/en.html)
+[<img width="20%" alt="Universoty of Otago" src="assets/images/logos/otago.png">](https://www.otago.ac.nz/)
+[<img width="20%" alt="Universoty of Canterbury" src="assets/images/logos/uc.png">](https://www.canterbury.ac.nz/)
+[<img width="20%" alt="SfTI" src="assets/images/logos/sfti.jpeg">](https://www.sftichallenge.govt.nz/)
+[<img width="20%" alt="Univentures" src="assets/images/logos/univentures.jpeg">](https://www.wellingtonuniventures.nz/)
+[<img width="20%" alt="BuyPure" src="assets/images/logos/buypure1.jpg">](https://buypurenewzealand.com/)
+
+<section>
 	<h3 class="major">Research Streams</h3>
 	<ul>
 		<li> <b><u>Conceptual and regulatory stream </u></b>: elicit knowledge from stakeholders about what a formal model of veracity may look like; explore suitable logical paradigms to represent and deal with trust, engage in rigorous critique, inconsistency in  assessments of veracity by different parties. This stream will include models, frameworks, guidance, and forecasting efforts focused on veracity threats and opportunities for Aotearoa New Zealand. </li>
@@ -45,6 +58,8 @@ title: about
 		<li> <b><u>Integration stream</u></b>: outputs from the first three streams will be continuously integrated into a general purpose framework and reference implementation, to ensure reusability, extendability and repurpose-ability of all Veracity Lab outputs. </li>
 	</ul>
 </section>
+
+
 
 <hr />
 <p>

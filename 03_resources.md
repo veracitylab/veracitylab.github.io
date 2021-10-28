@@ -33,6 +33,11 @@ image: pic01.jpeg
         <li> <p> 21 OCTOBER 2021 <br>
         <a href= "https://techblog.nz/2717-Our-Digital-Strategy-needs-to-be-more-humancentric-and-valuesdriven"> <b> Our Digital Strategy needs to be more human-centric and values-driven</b> </a> by DR. MARKUS LUCZAK-ROESCH, ITP Techblog </p></li>
     </ul>
+    <ul>
+        <li> <p> 19 OCTOBER 2021 <br>
+        <a href= "https://techblog.nz/2716-Does-provenance-matter-when-it-comes-to-digital-products-and-services"> <b> Does provenance matter when it comes to digital products and services?</b> </a> by JENS DIETRICH and MATTHIAS GALSTER, ITP Techblog </p></li>
+    </ul>
+
 
 
 </section>

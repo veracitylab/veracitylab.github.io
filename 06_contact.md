@@ -27,8 +27,14 @@ title: contact
 
 {{ site.street_address }}, <br>
 {{ site.city }}, {{ site.country }} <br>
-{{ site.phone }} (Brendan)<br>
 <a href = "mailto: {{ site.email }}">veracity@vuw.ac.nz</a>
+
+<p>Associate Director <br>
+Brendan Hoare {{ site.phone }} <br>
+<a href = "mailto: {{ site.email }}">bhoare@buypurenz.com</a>
+  
+
+</p>
 
 
 <ul class="icons">

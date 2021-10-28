@@ -5,7 +5,7 @@ image: cases.jpg
 ---
 <section>
 	<h3 class="major"> Indigenous data</h3>
-    <p> </p>
+    <p> Local Contexts <a href="www.localcontexts.org">(www.localcontexts.org)</a> supports the application of Traditional Knowledge (TK) Labels and Biocultural (BC) Labels to datasets to ensure information relating to provenance and cultural authority is maintained in the digital records associated with mātauranga and taonga. Maintaining the integrity and trustworthiness of this metadata in Te Ao Matihiko (Digital World) is a key challenge which the Veracity Lab is helping us address.</p>
     <!-- <hr /> -->
 </section>
 
