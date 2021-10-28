@@ -6,7 +6,7 @@ title: about
 
 <section>
 	<h3 class="major">Vision</h3>
-    <p> Our vision is to create a <strong>high veracity digital nation</strong> reflects and amplifies a desired quality of life here in Aotearoa New Zealand </p>
+    <p> Our vision is to create a <strong>high veracity digital nation</strong> that reflects and amplifies a desired quality of life here in Aotearoa New Zealand </p>
     <!-- <hr /> -->
 </section>
 
@@ -53,7 +53,7 @@ title: about
 
 <section>
 <h3 class="major">Partnership model </h3> 
-<img width= "90%" alt="Partnership model" src="assets/images/poster.png">
+<img width= "100%" alt="Partnership model" src="assets/images/model.png">
 <p>
 Veracity Lab will be situated as an objective partner for 
 <ul>
