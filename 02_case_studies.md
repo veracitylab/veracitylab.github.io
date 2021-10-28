@@ -17,7 +17,16 @@ image: cases.jpg
 
 <section>
 	<h3 class="major"> Artificial and augmented intelligence</h3>
-    <p> </p>
+    <p> Artificial Intelligence (AI) will undoubtedly enter more and more areas 
+of people's daily lives. From loan and insurance claim decision to 
+autonomous machines in farming, AI is already in use in many areas 
+today. An important question is, how do humans intervene when they 
+disagree with or doubt the actions that are triggered by AI? How do we 
+make sure actions of AI are reliably documented and understandable? Who 
+is accountable? Veracity Lab is looking at these questions from the 
+perspective of the national digital infrastructure needed to ensure 
+humans can live well alongside an ever increasing amount of AI in their 
+environment.</p>
     <!-- <hr /> -->
 </section>
 
