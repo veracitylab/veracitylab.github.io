@@ -12,7 +12,10 @@ title: about
 
 <section>
 	<h3 class="major">Purpose</h3>
-    <p> Veracity Lab provides independent research and outcomes to complement and feed into commercially driven research. We intend to be the Aotearoa equivalent of the Turing Institute and Ada Lovelace Institute.  </p>
+    <p> Veracity Lab facilitates deep and inclusive conversations across all 
+areas of society about our digital future, and provides capabilities to 
+incubate and undertake research and development work at the bleeding 
+edge of values-based and human-centered technology.  </p>
 		
 </section>
 
@@ -55,32 +58,32 @@ title: about
 <h3 class="major">Partnership model </h3> 
 <img width= "100%" alt="Partnership model" src="assets/images/model.png">
 <p>
-Veracity Lab will be situated as an objective partner for: 
+Veracity lab is an objective partner for the following partnerships: 
 <ul>
-	<li> Indigenous Partnership</li>
-	<li> Industry Partnership</li>
-	<li> Research Partnership</li>
-	<li> Education Partnership</li>
-	<li> Developer Partnership</li>
-	<li> Government Partnership</li>
+	<li> Indigenous </li>
+	<li> Industry </li>
+	<li> Research </li>
+	<li> Education </li>
+	<li> Developer </li>
+	<li> Government </li>
 </ul>
-To facilitate that all these communities can 
+<!-- To facilitate that all these communities can 
 explore the concept of a high veracity digital nation through their own 
-cultural lens, and with their individual benefits and interests in mind.
+cultural lens, and with their individual benefits and interests in mind. -->
 
 <!-- the engagement process through the four research streams -->
 <br>
-An agile process of ideation, requirements analysis and specification 
+<!-- Our agile process of ideation, requirements analysis and specification 
 between the Veracity Lab Research Team and stakeholders that can join 
 the Veracity Lab Partnerships at any time will be established, to bring 
 in new research and development challenges of high priority for a high 
-veracity digital nation into Veracity Lab. 
-<br>
-At the end of this process stakeholders can <b> join Veracity Lab as Veracity Lab Fellows </b> (e.g., 
+veracity digital nation into the Veracity Lab.  -->
+
+<!-- At the end of this process stakeholders can <b> join Veracity Lab as Veracity Lab Fellows </b> (e.g., 
 Business Fellow, Education Fellow, Indigenous Fellow,...), who then can 
 carry out projects in collaboration with the Veracity Lab Research Team 
 and possible other external stakeholders who are brought in for the 
-specific challenge.
+specific challenge. -->
 </p>
 
 	<!-- <h3 class="major">Research Streams</h3>

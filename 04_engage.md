@@ -2,6 +2,17 @@
 title: engage
 image: engage.jpg
 ---
+
+<section>
+	<h3 class="major">Participate</h3>
+<p>Our agile process of ideation, requirements analysis and specification 
+between the Veracity Lab Research Team and stakeholders that can join 
+the Veracity Lab Partnerships at any time will be established, to bring 
+in new research and development challenges of high priority for a high 
+veracity digital nation into the Veracity Lab. 
+</p>
+</section>
+
 <section>
 	<h3 class="major">Events</h3>
 	<h4> Webinar series on 'Digital Strategy for Aotearoa'</h4>
