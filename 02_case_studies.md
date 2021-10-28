@@ -1,7 +1,7 @@
 ---
 title: cases
 display_title: case studies
-image: pic01.jpeg
+image: cases.jpg
 ---
 <section>
 	<h3 class="major"> Indigenous data</h3>

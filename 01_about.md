@@ -1,6 +1,6 @@
 ---
 title: about
-image: pic01.jpeg
+# image: pic01.jpeg
 ---
 <section>
 	<h3 class="major">Vision</h3>

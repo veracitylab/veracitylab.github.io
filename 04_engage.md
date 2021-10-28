@@ -1,6 +1,6 @@
 ---
 title: engage
-image: pic01.jpeg
+image: engage.jpg
 ---
 <section>
 	<h3 class="major">Events</h3>
