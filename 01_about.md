@@ -54,6 +54,7 @@ facilitate the following partnerships: </p>
 			<li>Associate Professor Matthias Galster - University of Canterbury</li>
 			<li>Professor Stephen Cranefield - University of Otago</li>
 			<li>Hamish Findlay - Wellington UniVentures</li>
+			<li>Jane Li - Project Coordinator and Research Assistant </li>
 			</ul>
 			
 
