@@ -7,7 +7,7 @@ image: engage.jpg
 	<h3 class="major">Participate</h3>
 <p>We follow an agile process of ideation, requirements analysis and specification 
 between the Veracity Lab Research Team and stakeholders that can join 
-the Veracity Lab Partnerships at any time will be established, to bring 
+the Veracity Lab Partnerships at any time to bring 
 in new research and development challenges of high priority for a high 
 veracity digital nation into the Veracity Lab. 
 </p>
