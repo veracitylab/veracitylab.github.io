@@ -53,10 +53,13 @@ facilitate the following partnerships: </p>
 			<li>Kevin Shedlock - Victoria University of Wellington</li>
 			<li>Associate Professor Matthias Galster - University of Canterbury</li>
 			<li>Professor Stephen Cranefield - University of Otago</li>
-			<li>Hamish Findlay - Wellington UniVentures</li>
-			<li>Jane Li - Project Coordinator and Research Assistant </li>
 			</ul>
 			
+	<b>Operational and Management</b>
+			<ul>
+			<li>Commercialisation Advisor: Hamish Findlay - Wellington UniVentures</li>
+			<li>Project Coordinator and Research Assistant: Jane Li - Victoria University of Wellington </li>
+			</ul>
 
 	<b>Advisory Board</b>
     		<p>
