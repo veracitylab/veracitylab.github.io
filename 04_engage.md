@@ -5,7 +5,7 @@ image: engage.jpg
 
 <section>
 	<h3 class="major">Participate</h3>
-<p>Our agile process of ideation, requirements analysis and specification 
+<p>We follow an agile process of ideation, requirements analysis and specification 
 between the Veracity Lab Research Team and stakeholders that can join 
 the Veracity Lab Partnerships at any time will be established, to bring 
 in new research and development challenges of high priority for a high 
