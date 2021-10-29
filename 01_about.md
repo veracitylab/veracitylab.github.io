@@ -23,7 +23,8 @@ edge of values-based and human-centered technology.  </p>
 <h3 class="major">Partnership model </h3> 
 <img width= "100%" alt="Partnership model" src="assets/images/model.png">
 <p>
-Veracity lab is an objective partner for the following partnerships: </p>
+Veracity lab will provide the objective and safe environment to 
+facilitate the following partnerships: </p>
 <ul>
 	<li> Indigenous </li>
 	<li> Industry </li>
