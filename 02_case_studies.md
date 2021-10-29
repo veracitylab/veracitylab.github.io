@@ -16,7 +16,7 @@ image: cases.jpg
 </section>
 
 <section>
-	<h3 class="major"> Contestable Artificial Intelligence</h3>
+	<h3 class="major"> Contestable AI</h3>
     <p> Artificial Intelligence (AI) will undoubtedly enter more and more areas 
 of people's daily lives. From loan and insurance claim decision to 
 autonomous machines in farming, AI is already in use in many areas 
