@@ -19,6 +19,20 @@ edge of values-based and human-centered technology.  </p>
 		
 </section>
 
+<section>
+<h3 class="major">Partnership model </h3> 
+<img width= "100%" alt="Partnership model" src="assets/images/model.png">
+<p>
+Veracity lab is an objective partner for the following partnerships: </p>
+<ul>
+	<li> Indigenous </li>
+	<li> Industry </li>
+	<li> Research </li>
+	<li> Education </li>
+	<li> Developer </li>
+	<li> Government </li>
+</ul>
+</section>
 
 <section>
 	<h3 class="major">People</h3>
@@ -54,7 +68,7 @@ edge of values-based and human-centered technology.  </p>
 		</p>
 </section>
 
-
+<!-- 
 <section> 
 	<h3 class="major">Founding Partners </h3> 
 </section>
@@ -65,48 +79,9 @@ edge of values-based and human-centered technology.  </p>
 [<img width="20%" alt="Universoty of Canterbury" src="assets/images/logos/uc.png">](https://www.canterbury.ac.nz/)
 [<img width="20%" alt="SfTI" src="assets/images/logos/sfti.jpeg">](https://www.sftichallenge.govt.nz/)
 [<img width="20%" alt="Univentures" src="assets/images/logos/univentures.jpeg">](https://www.wellingtonuniventures.nz/)
-[<img width="20%" alt="BuyPure" src="assets/images/logos/buypure1.jpg">](https://buypurenewzealand.com/)
+[<img width="20%" alt="BuyPure" src="assets/images/logos/buypure1.jpg">](https://buypurenewzealand.com/) -->
 
-<section>
-<h3 class="major">Partnership model </h3> 
-<img width= "100%" alt="Partnership model" src="assets/images/model.png">
-<p>
-Veracity lab is an objective partner for the following partnerships: 
-<ul>
-	<li> Indigenous </li>
-	<li> Industry </li>
-	<li> Research </li>
-	<li> Education </li>
-	<li> Developer </li>
-	<li> Government </li>
-</ul>
-<!-- To facilitate that all these communities can 
-explore the concept of a high veracity digital nation through their own 
-cultural lens, and with their individual benefits and interests in mind. -->
 
-<!-- the engagement process through the four research streams -->
-<br>
-<!-- Our agile process of ideation, requirements analysis and specification 
-between the Veracity Lab Research Team and stakeholders that can join 
-the Veracity Lab Partnerships at any time will be established, to bring 
-in new research and development challenges of high priority for a high 
-veracity digital nation into the Veracity Lab.  -->
-
-<!-- At the end of this process stakeholders can <b> join Veracity Lab as Veracity Lab Fellows </b> (e.g., 
-Business Fellow, Education Fellow, Indigenous Fellow,...), who then can 
-carry out projects in collaboration with the Veracity Lab Research Team 
-and possible other external stakeholders who are brought in for the 
-specific challenge. -->
-</p>
-
-	<!-- <h3 class="major">Research Streams</h3>
-	<ul>
-		<li> <b><u>Conceptual and regulatory stream </u></b>: elicit knowledge from stakeholders about what a formal model of veracity may look like; explore suitable logical paradigms to represent and deal with trust, engage in rigorous critique, inconsistency in  assessments of veracity by different parties. This stream will include models, frameworks, guidance, and forecasting efforts focused on veracity threats and opportunities for Aotearoa New Zealand. </li>
-		<li> <b><u>Computational stream</u></b>: to develop software and system design capacity for auditing decision making and determination of veracity; generalising the technical platforms over which the mechanics of regulatory systems can be represented. This stream will include reference implementations and delivery of high veracity products and services with partners.</li>
-		<li> <b><u>Socio-technical stream </u></b>: to develop socio-technical capacity for contesting of activities and transactions within and between the systems of value exchange ecosystems, influenced by socio-cultural changes and shifting business patterns; develop crowdsourcing solutions (including suitable user interfaces and incentive mechanisms), deal with different velocity of the computational veracity auditing as opposed to crowdsourced audits. This stream will include reference implementations, socio-technical products and services with partners, governance models and interoperability frameworks to support a system of systems, including self-sovereign systems.</li>
-		<li> <b><u>Integration stream</u></b>: outputs from the first three streams will be continuously integrated into a general purpose framework and reference implementation, to ensure reusability, extendability and repurpose-ability of all Veracity Lab outputs. </li> 
-	</ul> -->
-</section>
 
 
 
