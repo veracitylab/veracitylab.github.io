@@ -22,11 +22,14 @@ edge of values-based and human-centered technology.  </p>
 
 <section>
 	<h3 class="major">People</h3>
-    		<p>
+	<b>Leadership</b>
+	<ul>
+			<li>Co-director: Associate Professor Markus Luczak-Roesch - Victoria University of Wellington</li>
+			<li>Co-director: Associate Prof Māui Hudson (Te Whakatohea, Ngā Ruahine, Te Mahurehure) - University of Waikato</li>
+			<li>Associate Director: Brendan Hoare - Buy Pure New Zealand</li>
+	</ul>
+	<b>Research Team</b>
 			<ul>
-			<li>Spearhead Leader: Associate Professor Markus Luczak-Roesch - Victoria University of Wellington</li>
-			<li>Vision Mātauranga Leader: Associate Prof Māui Hudson (Te Whakatohea, Ngā Ruahine, Te Mahurehure) - University of Waikato</li>
-			<li>Associate Director Veracity Lab: Brendan Hoare - Buy Pure New Zealand</li>
 			<li>Dr Kelly Blincoe - University of Auckland</li>
 			<li>Tim Miller - Victoria University of Wellington</li>
 			<li>Professor Steve Reeves - University of Waikato</li>
@@ -36,6 +39,16 @@ edge of values-based and human-centered technology.  </p>
 			<li>Associate Professor Matthias Galster - University of Canterbury</li>
 			<li>Professor Stephen Cranefield - University of Otago</li>
 			<li>Hamish Findlay - Wellington UniVentures</li>
+			</ul>
+			
+
+	<b>Advisory Board</b>
+    		<p>
+			<ul>
+			<li>Karyn Rogers - Senior Scientist at GNS Science (Lower Hutt, NZ)</li>
+			<li>James Noble - Professor of Computer Science and Software Engineering, Victoria University of Wellington</li>
+			<li>Ben Tairea  - Managing Director and Kaiwhakahaere, CEO of Āhau </li>
+			<li>Richman Wee  - Academic Research Manager for the New Zealand Law Foundation (NZLF), Faculty of Law, University of Waikato </li>
 			</ul>
 			
 		</p>
