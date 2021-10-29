@@ -73,6 +73,12 @@ facilitate the following partnerships: </p>
 		</p>
 </section>
 
+
+<section> 
+	<h3 class="major">Supported by </h3> 
+</section>
+[<img width="15%" alt="SfTI" src="assets/images/logos/sfti.jpeg">](https://www.sftichallenge.govt.nz/)
+
 <!-- 
 <section> 
 	<h3 class="major">Founding Partners </h3> 

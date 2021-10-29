@@ -1,6 +1,6 @@
 ---
 title: resources
-image: pic01.jpeg
+image: resources.jpg
 ---
 <!-- <section>
 	<h3 class="major">White Paper</h3>
