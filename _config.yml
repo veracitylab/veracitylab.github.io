@@ -22,10 +22,10 @@ facebook_url:
 gitlab_url: 
 googleplus_url:
 instagram_url:
-linkedin_url: https://linkedin.com/in/markus-luczak-roesch-81ba5611
+# linkedin_url: https://linkedin.com/in/markus-luczak-roesch-81ba5611
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/MLuczak
+twitter_url: https://twitter.com/VeracityLab 
 
 # Build settings
 markdown: kramdown
