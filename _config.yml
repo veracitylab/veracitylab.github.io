@@ -1,6 +1,6 @@
 # Site settings
 title: Veracity Lab
-email: veracity@vuw.ac.nz
+email: markus.luczak-roesch@vuw.ac.nz
 description: To explore, promote and support a high integrity national digital future
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
