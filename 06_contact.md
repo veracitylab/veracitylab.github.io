@@ -27,7 +27,7 @@ title: contact
 
 {{ site.street_address }}, <br>
 {{ site.city }}, {{ site.country }} <br>
-<a href = "mailto: {{ site.email }}">veracity@vuw.ac.nz</a>
+<a href = "mailto: {{ site.email }}">markus.luczak-roesch@vuw.ac.nz</a>
 
 <p>Associate Director <br>
 Brendan Hoare {{ site.phone }} <br>
