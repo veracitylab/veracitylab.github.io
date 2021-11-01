@@ -30,12 +30,16 @@ image: resources.jpg
 <section>
 	<h3 class="major">Media</h3>
     <ul>
+        <li> <p> 27 OCTOBER 2021 <br>
+        <a href= "https://www.thebit.nz/people/digital-provenance-what-it-is-and-why-its-important-to-you/"> <b> Digital Provenance – what it is and why it’s important to you…</b> </a> by Greg Fleming, theBit.nz </p></li>
+    </ul>
+    <ul>
         <li> <p> 21 OCTOBER 2021 <br>
-        <a href= "https://techblog.nz/2717-Our-Digital-Strategy-needs-to-be-more-humancentric-and-valuesdriven"> <b> Our Digital Strategy needs to be more human-centric and values-driven</b> </a> by DR. MARKUS LUCZAK-ROESCH, ITP Techblog </p></li>
+        <a href= "https://techblog.nz/2717-Our-Digital-Strategy-needs-to-be-more-humancentric-and-valuesdriven"> <b> Our Digital Strategy needs to be more human-centric and values-driven</b> </a> by Dr. Markus Luczak-Roesch, ITP Techblog </p></li>
     </ul>
     <ul>
         <li> <p> 19 OCTOBER 2021 <br>
-        <a href= "https://techblog.nz/2716-Does-provenance-matter-when-it-comes-to-digital-products-and-services"> <b> Does provenance matter when it comes to digital products and services?</b> </a> by JENS DIETRICH and MATTHIAS GALSTER, ITP Techblog </p></li>
+        <a href= "https://techblog.nz/2716-Does-provenance-matter-when-it-comes-to-digital-products-and-services"> <b> Does provenance matter when it comes to digital products and services?</b> </a> by Jens Dietrich and Matthias Galster, ITP Techblog </p></li>
     </ul>
 
 
