@@ -64,7 +64,7 @@ facilitate the following partnerships: </p>
 	<b>Advisory Board</b>
     		<p>
 			<ul>
-			<li>Karyn Rogers - Senior Scientist at GNS Science (Lower Hutt, NZ)</li>
+			<li>Karyne Rogers - Senior Scientist at GNS Science (Lower Hutt, NZ)</li>
 			<li>James Noble - Professor of Computer Science and Software Engineering, Victoria University of Wellington</li>
 			<li>Ben Tairea  - Managing Director and Kaiwhakahaere, CEO of Āhau </li>
 			<li>Richman Wee  - Academic Research Manager for the New Zealand Law Foundation (NZLF), Faculty of Law, University of Waikato </li>
