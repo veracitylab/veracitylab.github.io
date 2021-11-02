@@ -4,6 +4,10 @@ title: about
 ---
 <p><sup>Est. July 2021</sup></p>
 
+<html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VahekMWDx2g" title="The Veracity Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</html>
+<p></p>
 <section>
 	<h3 class="major">Vision</h3>
     <p> Our vision is to create a <strong>high veracity digital nation</strong> that reflects and amplifies a desired quality of life here in Aotearoa New Zealand </p>
