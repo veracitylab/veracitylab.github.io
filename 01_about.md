@@ -4,9 +4,10 @@ title: about
 ---
 <p><sup>Est. July 2021</sup></p>
 
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VahekMWDx2g" title="The Veracity Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</html>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VahekMWDx2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p></p>
 <section>
 	<h3 class="major">Vision</h3>

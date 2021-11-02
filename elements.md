@@ -11,15 +11,9 @@ title: elements
 [<img width="20%" alt="BuyPure" src="assets/images/logos/buypure1.jpg">](https://buypurenewzealand.com/)
 
 
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VahekMWDx2g" title="The Veracity Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</html>
-
-<html>
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VahekMWDx2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</html>
 
 
 
