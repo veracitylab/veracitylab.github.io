@@ -8,7 +8,10 @@ title: about
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VahekMWDx2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p></p>
+<br>
+<i class="fa fa-angle-double-right" ></i> [<u><b>November 2-4: Join Veracity Lab for a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa'</b></u>](https://veracity.wgtn.ac.nz/#engage) 
+
+
 <section>
 	<h3 class="major">Vision</h3>
     <p> Our vision is to create a <strong>high veracity digital nation</strong> that reflects and amplifies a desired quality of life here in Aotearoa New Zealand </p>
@@ -44,35 +47,36 @@ facilitate the following partnerships: </p>
 	<h3 class="major">People</h3>
 	<b>Leadership</b>
 	<ul>
-			<li>Co-director: Associate Professor Markus Luczak-Roesch - Victoria University of Wellington</li>
-			<li>Co-director: Associate Prof Māui Hudson (Te Whakatohea, Ngā Ruahine, Te Mahurehure) - University of Waikato</li>
-			<li>Associate Director: Brendan Hoare - Buy Pure New Zealand</li>
+			<li>Markus Luczak-Roesch: Co-director, Associate Professor, Victoria University of Wellington</li>
+			<li>Māui Hudson: Co-director, Associate Professor, University of Waikato</li> 
+			<!-- (Te Whakatohea, Ngā Ruahine, Te Mahurehure) -->
+			<li>Brendan Hoare: Associate Director, Buy Pure New Zealand</li>
 	</ul>
 	<b>Research Team</b>
 			<ul>
-			<li>Dr Kelly Blincoe - University of Auckland</li>
-			<li>Tim Miller - Victoria University of Wellington</li>
-			<li>Professor Steve Reeves - University of Waikato</li>
-			<li>Associate Professor Jens Dietrich - Victoria University of Wellington</li>
-			<li>Associate Professor David Eyers - University of Otago</li>
-			<li>Kevin Shedlock - Victoria University of Wellington</li>
-			<li>Associate Professor Matthias Galster - University of Canterbury</li>
-			<li>Professor Stephen Cranefield - University of Otago</li>
+			<li> Kelly Blincoe: Dr, University of Auckland</li>
+			<li>Tim Miller: Victoria University of Wellington</li>
+			<li>Steve Reeves: Professor, University of Waikato</li>
+			<li>Jens Dietrich: Associate Professor, Victoria University of Wellington</li>
+			<li>David Eyers: Associate Professor, University of Otago</li>
+			<li>Kevin Shedlock: Victoria University of Wellington</li>
+			<li>Matthias Galster: Associate Professor, University of Canterbury</li>
+			<li>Stephen Cranefield: Professor, University of Otago</li>
 			</ul>
 			
 	<b>Operational and Management</b>
 			<ul>
-			<li>Commercialisation Advisor: Hamish Findlay - Wellington UniVentures</li>
-			<li>Project Coordinator and Research Assistant: Jane Li - Victoria University of Wellington </li>
+			<li>Hamish Findlay: Commercialisation Advisor, Wellington UniVentures</li>
+			<li>Jane Li: Project Coordinator and Research Assistant, Victoria University of Wellington </li>
 			</ul>
 
 	<b>Advisory Board</b>
     		<p>
 			<ul>
-			<li>Karyne Rogers - Senior Scientist at GNS Science (Lower Hutt, NZ)</li>
-			<li>James Noble - Professor of Computer Science and Software Engineering, Victoria University of Wellington</li>
-			<li>Ben Tairea  - Managing Director and Kaiwhakahaere, CEO of Āhau </li>
-			<li>Richman Wee  - Academic Research Manager for the New Zealand Law Foundation (NZLF), Faculty of Law, University of Waikato </li>
+			<li>Karyne Rogers: Senior Scientist at GNS Science </li>
+			<li>James Noble: Professor of Computer Science and Software Engineering, Victoria University of Wellington</li>
+			<li>Ben Tairea: Managing Director and Kaiwhakahaere, CEO of Āhau </li>
+			<li>Richman Wee: Academic Research Manager for the New Zealand Law Foundation (NZLF), University of Waikato </li>
 			</ul>
 			
 		</p>
