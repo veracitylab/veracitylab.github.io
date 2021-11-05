@@ -14,7 +14,7 @@ phone: +64 (0)27 2888 618
 
 # icon: fa-diamond # Font Awesome class for your site's icon
 # icon: fa-500px # Font Awesome class for your site's icon
-icon: fa-angle-double-down # Font Awesome class for your site's icon
+icon: fa-angle-double-down  # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
