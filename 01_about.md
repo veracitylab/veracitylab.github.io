@@ -8,9 +8,6 @@ title: about
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BvqXHW8CIKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
-<i class="fa fa-angle-double-right" ></i> [<u><b>November 2-4: Join Veracity Lab for a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa'</b></u>](https://veracity.wgtn.ac.nz/#engage) 
-
 
 <section>
 	<h3 class="major">Vision</h3>
