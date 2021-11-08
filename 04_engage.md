@@ -16,7 +16,7 @@ veracity digital nation into the Veracity Lab.
 <section>
 	<h3 class="major">Events</h3>
 	<h4> Webinar series on 'Digital Strategy for Aotearoa'</h4>
-    <p> Veracity Lab led a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa' can trigger a positive repositioning of our digital future and to put people in control of what it looks like.
+    <p><b>November 2-4, 2021</b>:  Veracity Lab led a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa' can trigger a positive repositioning of our digital future and to put people in control of what it looks like.
     <br>
     Below are the recordings from the webinars.
     </p>
