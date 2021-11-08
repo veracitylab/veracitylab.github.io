@@ -19,7 +19,7 @@ title: about
 	<h3 class="major">Purpose</h3>
     <p> Veracity Lab facilitates deep and inclusive conversations across all 
 areas of society about our digital future, and provides capabilities to 
-incubate and undertake research and development work at the bleeding 
+incubate and undertake research and development work at the cutting 
 edge of values-based and human-centered technology.  </p>
 		
 </section>
