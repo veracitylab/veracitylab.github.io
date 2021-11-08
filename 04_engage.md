@@ -16,15 +16,21 @@ veracity digital nation into the Veracity Lab.
 <section>
 	<h3 class="major">Events</h3>
 	<h4> Webinar series on 'Digital Strategy for Aotearoa'</h4>
-    <p>Join Veracity Lab for a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa' can trigger a positive repositioning of our digital future and to put people in control of what it looks like.</p>
-    <p> Dates / Time:	
-    <ul>
-        <li>November 2 (Tue)  7:30-8:30pm</li>
-        <li>November 3 (Wed)  7:30-8:30pm</li>
-        <li>November 4 (Thu)  12:30-1:30pm</li>
-    </ul>
+    <p> Veracity Lab led a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa' can trigger a positive repositioning of our digital future and to put people in control of what it looks like.
     <br>
-     Venue: <a href = "https://vuw.zoom.us/j/91698850286">https://vuw.zoom.us/j/91698850286 </a></p>
+    Below are the recordings from the webinars.
+    </p>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MWs__lCQe2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <br>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cfGtDO-uEW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <br>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UlE4XOGkUwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </section>
 <!-- 
