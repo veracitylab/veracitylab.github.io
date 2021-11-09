@@ -26,6 +26,12 @@ image: resources.jpg
 	<h3 class="major">Reports</h3>
     <p>some text</p>
 </section> -->
+<section>
+	<h3 class="major">Reports</h3>
+    <ul>
+        <li>   <a href= "/resources/dsa-2021-submission.pdf"> <b> A submission to the Digital Strategy for Aotearoa consultation by the Veracity Lab community </b> </a>  </li>
+    </ul>
+</section>
 
 <section>
 	<h3 class="major">Media</h3>
