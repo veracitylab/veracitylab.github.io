@@ -13,6 +13,13 @@ veracity digital nation into the Veracity Lab.
 </p>
 </section>
 
+<p> 
+    <ul> Get in touch to engage:
+        <li> <a href = "mailto: {{ site.email }}" class="icon fa-envelope">  markus.luczak-roesch@vuw.ac.nz</a>  </li>
+        <li><a href="https://twitter.com/VeracityLab" class="icon fa-twitter" target="_blank">  Veracity Lab</a></li>
+    </ul>
+</p>
+
 <section>
 	<h3 class="major">Events</h3>
 	<h4> Webinar series on 'Digital Strategy for Aotearoa'</h4>
