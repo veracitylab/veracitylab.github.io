@@ -22,6 +22,21 @@ veracity digital nation into the Veracity Lab.
 
 <section>
 	<h3 class="major">Events</h3>
+	<h4> Whāki Webinar Series</h4>
+    <p><b>Tuesday 30th November 2021, 1 pm</b>:  Join us to discuss our working paper on "Digital Whenua, Sovereignty and Rights for Aotearoa." 
+    <ul>
+        <li> <a href="https://www.waikato.ac.nz/rangahau/koi-te-mata-punenga-innovation/whaki-webinar-series"> More details about Whāki Webinar Series </a> </li>
+        <li>Register Here: <a href="https://bit.ly/3FjluQi">https://bit.ly/3FjluQi </a></li>
+        <li> <a href="https://docs.google.com/document/d/1oNgCONEFsM7gW3abidjP9kLmn-faREUek-HAnlwBk8c/edit?usp=sharing">The paper "Digital Whenua, Sovereignty and Rights for Aotearoa" (read and comment)</a></li>
+    </ul>
+
+    <br>
+   
+    </p>
+
+
+
+
 	<h4> Webinar series on 'Digital Strategy for Aotearoa'</h4>
     <p><b>November 2-4, 2021</b>:  Veracity Lab led a series of open discussions exploring how the Government's 'Digital Strategy for Aotearoa' can trigger a positive repositioning of our digital future and to put people in control of what it looks like.
     <br>
