@@ -22,7 +22,16 @@ veracity digital nation into the Veracity Lab.
 
 <section>
 	<h3 class="major">Events</h3>
-        <h4> Whāki Webinar Series</h4>
+        <h4>Veracity Webinar Series</h4>
+        <p><b>Wednesday 30th March 2022, 5 pm</b>:  Join us for a webinar titled "Demystifying Blockchain" 
+        <ul>
+		<li>In this webinar practitioners and researchers working in blockchain will discuss what (1) they may be useful for; (2) may be achieved equally or better using other technologies; (3) the principles embedded in blockchain technology actually are.  Facilitated discussion will explore when and how blockchains may be of use, and when and why they may not.</li>
+            <li>Speakers: Robert O'Brien (Distributed Systems Software Architect, yümi), David Eyers (Associate Professor, University of Otago), Walter Langelaar (Lecturer in Design, Vicotria University of Wellington), Chris Claridge (Chair, Trust Alliance New Zealand)</li>
+		<li>Zoom link: <a href="https://vuw.zoom.us/j/92465918959">https://vuw.zoom.us/j/92465918959</a></li>
+        </ul>
+        </p>
+<br>
+	<h4> Whāki Webinar Series</h4>
         <p><b>Tuesday 30th November 2021, 1 pm</b>:  Join us to discuss our working paper on "Digital Whenua, Sovereignty and Rights for Aotearoa." 
         <ul>
             <li> <a href="https://www.waikato.ac.nz/rangahau/koi-te-mata-punenga-innovation/whaki-webinar-series"> More details about Whāki Webinar Series </a> </li>
