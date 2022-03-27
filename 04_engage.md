@@ -26,7 +26,7 @@ veracity digital nation into the Veracity Lab.
         <p><b>Wednesday 30th March 2022, 5 pm</b>:  Join us for a webinar titled "Demystifying Blockchain" 
         <ul>
 		<li>In this webinar practitioners and researchers working in blockchain will discuss what (1) they may be useful for; (2) may be achieved equally or better using other technologies; (3) the principles embedded in blockchain technology actually are.  Facilitated discussion will explore when and how blockchains may be of use, and when and why they may not.</li>
-            <li>Speakers: Robert O'Brien (Distributed Systems Software Architect, yümi), David Eyers (Associate Professor, University of Otago), Walter Langelaar (Lecturer in Design, Vicotria University of Wellington), Chris Claridge (Chair, Trust Alliance New Zealand)</li>
+            <li>Speakers: Robert O'Brien (Distributed Systems Software Architect, yümi), David Eyers (Associate Professor, University of Otago), Walter Langelaar (artist/academic in Media Design, Victoria University of Wellington), Chris Claridge (Chair, Trust Alliance New Zealand)</li>
 		<li>Zoom link: <a href="https://vuw.zoom.us/j/92465918959">https://vuw.zoom.us/j/92465918959</a></li>
         </ul>
         </p>
