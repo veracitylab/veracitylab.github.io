@@ -22,6 +22,15 @@ veracity digital nation into the Veracity Lab.
 
 <section>
 	<h3 class="major">Events</h3>
+	  <h4>Veracity Lab + TeLENZ ‘Leading Minds’ Webinar Series</h4>
+        <p><b>Tuesday 10th May 2022, 5 pm</b>: Join us for a webinar titled "Rules as Code"
+        <ul>
+		<li>In this webinar, researchers, policy makers and technologists will be discussing (1) the role of rules of code and related work undertaken in NZ and overseas; Potential for initiatives to be trialled in NZ and (2) multi-disciplinary and cross-sectoral collaborations to explore specific use cases.</li>
+            <li>Speakers: Nadia Webster (Manager, Data & Insights, Wellington City Council & (2020—2021) Innovation Lead, Smart Council), Hamish Fraser ( Co-investigator, NZ Law Foundation-funded research on ‘Legislation as Code for NZ’ & Product Architect, Developer, Wellington CC)</li>
+		<li>Zoom Link: Free to join in and Zoom link will be generated after registration <a href="https://www.eventbrite.co.nz/e/veracity-lab-telenz-rules-as-code-registration-332445743167">here</a></li>
+        </ul>
+        </p>
+<br>
         <h4>Veracity Webinar Series</h4>
         <p><b>Wednesday 30th March 2022, 5 pm</b>:  Join us for a webinar titled "Demystifying Blockchain" 
         <ul>
